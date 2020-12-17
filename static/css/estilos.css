@@ -54,9 +54,6 @@
     grid-template-areas: "description image";
     grid-template-columns: 480px 1fr;
   }
-  .hero__description {
-    border: 1px solid green;
-  }
   .hero__image {
     grid-area: image;
     min-height: inherit;
