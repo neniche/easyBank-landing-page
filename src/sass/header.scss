@@ -2,6 +2,7 @@
   display: flex;
   padding: 1em 0;
   justify-content: space-between;
+  position: relative;
   &__logo {
     align-self: center;
   }
@@ -19,7 +20,6 @@
     &__content {
       display: flex;
       justify-content: space-between;
-      border: 1px solid red;
     }
   }
 }
